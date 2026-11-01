@@ -18,6 +18,7 @@ Die Webseitenbereiche **gsak-ng.com/makros/** und **gsak-ng.com/community/** wer
 
 ## Mitmachen / Participate
 
+- [Sprachaufteilung / Language policy](LANGUAGES.md)
 - [Beitragsablauf / Contributing](CONTRIBUTING.md)
 - [Community-Grundsätze / Guidelines](COMMUNITY-GUIDELINES.md)
 - [Themenvorlagen DE/EN / Discussion prompts](DISCUSSION-PROMPTS.md)

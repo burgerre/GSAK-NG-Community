@@ -10,6 +10,10 @@ Du brauchst kein zusätzliches GSAK-NG-Konto. Zum öffentlichen Mitschreiben ode
 
 Vorhandene Diskussionen und Makros durchsuchen. Geplanten Beitrag in der Kategorie Makros beschreiben: Welches Problem löst er? Welche GSAK-NG-Version und Plattform nutzt du? Besteht bereits ein ähnlicher Beitrag? DE/EN mit [DE] bzw. [EN] im Titel kennzeichnen. Keine persönliche Kontaktadresse öffentlich erforderlich.
 
+### Sprachen
+
+Neue Makrobeschreibungen, Anleitungen und Änderungsinformationen zunächst in Deutsch und Englisch bereitstellen. Vorhandene Übersetzungen anderer Sprachen erhalten; weitere sind willkommen. Die Katalogbedienung bleibt in allen 11 Sprachen. Fehlende Übersetzungen mit der tatsächlichen Inhaltssprache kennzeichnen. Siehe [Sprachregel](LANGUAGES.md).
+
 ### Beitrag vorbereiten
 
 - Makroname, kurze Beschreibung, Kategorie und öffentlicher Autorenname.
@@ -32,6 +36,8 @@ Erst nach ausdrücklicher Freigabe erscheinen eine exakt versionierte Datei und 
 No separate GSAK-NG account is required. Use GitHub to post publicly or propose a file. If GitHub is unfamiliar, describe your idea through the private wish form first. That form does not accept macro uploads; arrange an appropriate transfer method separately if needed. Never send passwords or access keys.
 
 Search existing macros and discussions before proposing a contribution in the Macros category. Describe the problem, app version, platform and any similar contribution. Use [DE] or [EN] title prefixes. Public contact details are not required.
+
+Provide new macro descriptions, instructions and changelogs initially in German and English. Preserve existing additional translations; more are welcome. The interface stays in all 11 languages. Label fallback content with its actual language. See the [language policy](LANGUAGES.md).
 
 Prepare the macro name, description, category, public author name, original version, known minimum app version, instructions, changelog and limitations. Describe platform support separately and provide exact versions, platform, results and evidence for any tests. Include the licence and redistribution rights for third-party files and images. Public visibility does not grant redistribution rights; do not copy old GSAK macros without permission. Remove private data and credentials from code, logs and examples. Explain file/database changes and network requirements.
 
