@@ -25,6 +25,8 @@ Die Webseitenbereiche **gsak-ng.com/makros/** und **gsak-ng.com/community/** wer
 
 Verwende [DE] oder [EN] im Titel. Diskussionsbereiche: Ankündigungen, Fragen & Hilfe, Makros, Touren & Mystery-Werkzeuge, Beta-Feedback, Ideen & Wünsche. Bitte keine privaten Kontaktdaten, Zugangsschlüssel oder persönlichen Cache-Daten öffentlich posten.
 
+Zusätzlich bleibt [Umfragen / Polls](https://github.com/burgerre/GSAK-NG-Community/discussions/categories/polls) als eigener Bereich erhalten.
+
 Use [DE] or [EN] title prefixes. Topics include announcements, questions and help, macros, tours and mystery tools, beta feedback, and ideas and wishes. Do not post private contact details, credentials or personal cache data.
 
 ## Rechte und Umfang / Rights and scope
