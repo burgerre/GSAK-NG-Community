@@ -1,0 +1,35 @@
+title: "[Idee] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für deine Idee! / Thanks for your idea!
+        ⚠️ Bitte **keine Final-Koordinaten, privaten Daten oder Zugangsdaten** posten. / Please do **not** post final coordinates, private data or credentials.
+  - type: textarea
+    id: was
+    attributes:
+      label: Was möchtest du? / What would you like?
+    validations:
+      required: true
+  - type: textarea
+    id: wofuer
+    attributes:
+      label: Wofür brauchst du es? / What is it for?
+    validations:
+      required: true
+  - type: dropdown
+    id: plattform
+    attributes:
+      label: Plattform / Platform
+      multiple: true
+      options:
+        - Alle / All
+        - Windows
+        - macOS
+        - Linux
+        - Android
+        - iPhone
+        - iPad
+    validations:
+      required: true

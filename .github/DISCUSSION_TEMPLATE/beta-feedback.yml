@@ -1,0 +1,59 @@
+title: "[Beta] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für deine Rückmeldung! / Thanks for your feedback!
+        ⚠️ Bitte **keine Final-Koordinaten, privaten Daten oder Zugangsdaten** posten. / Please do **not** post final coordinates, private data or credentials.
+  - type: dropdown
+    id: plattform
+    attributes:
+      label: Plattform / Platform
+      multiple: true
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Android
+        - iPhone
+        - iPad
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version und Build / Version and build
+      description: "GSAK-NG → Hilfe/Über → «Versionsinformationen kopieren» und hier einfügen. / Help/About → “Copy version information”."
+      placeholder: "z. B. 0.8.0-alpha.1 (72)"
+    validations:
+      required: true
+  - type: textarea
+    id: passiert
+    attributes:
+      label: Was ist passiert? / What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Schritte zum Nachvollziehen / Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: erwartet
+    attributes:
+      label: Was hast du erwartet? / What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot (freiwillig / optional)
+      description: "Bild hier hineinziehen. Vorher private Daten unkenntlich machen. / Drag an image here; hide private data first."
+    validations:
+      required: false
